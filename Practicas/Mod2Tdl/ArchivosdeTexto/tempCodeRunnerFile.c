@@ -1,0 +1,1 @@
+ fgets(linea , LONG , f);
